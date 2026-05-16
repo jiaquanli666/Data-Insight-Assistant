@@ -114,6 +114,12 @@ uv run streamlit run src/agent_project/app.py
 2. **可视化图表** — 自动生成的柱状图/折线图/饼图
 3. **数据洞察** — Agent 撰写的分析报告，含具体数字和业务解读
 
+## 实机演示图片
+[![dui-hua.png](https://i.postimg.cc/fL7pWHG5/dui-hua.png)](https://postimg.cc/DJZBBcyb)
+[![dui-hua2.png](https://i.postimg.cc/RCRyjDQ5/dui-hua2.png)](https://postimg.cc/NLKdXbzp)
+[![dui-hua3.png](https://i.postimg.cc/JzyFH7fF/dui-hua3.png)](https://postimg.cc/18QBLS50)
+
+
 ## 存在的问题以及后续迭代想法
 
 1. 目前只能画基础的柱状图折线图和饼状图，还没有引入其他图形的画法
